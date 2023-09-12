@@ -7,7 +7,7 @@ import se.lexicon.model.EmailNotification;
 import se.lexicon.model.Notification;
 
 /**
- * Hello world!
+ * Notification application
  */
 public class App {
     public static void main(String[] args) {
